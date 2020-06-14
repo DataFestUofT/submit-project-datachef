@@ -1,5 +1,12 @@
-This is a sample of the `team_submission.md` that should accompany your submission.
+# Team DataChef 
 
-A slide deck/app (select one) was created, and is available in these files XXX (add links/file names as appropriate).
+## Team member: 
+Haoluan Chen, haoluan.chen@mail.utoronto.ca
+Ruijia Yang, ruijia.yang@mail.utoronto.ca
+Yujie Li, jayden.li@mail.utoronto.ca
+Xinyue Li, xinyuevicky,li@mail.utoronto.ca
 
-A video/write-up (select one) was created, and is available in these files XXX (add links/file names as appropriate).
+
+A slide was created, and is available in this file DataChef-slides.pdf
+
+A video was created, and is available in https://drive.google.com/file/d/1hVB8HQCqIomMx8mZFR4ossigzoWpKh9k/view?usp=sharing
