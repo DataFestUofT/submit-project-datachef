@@ -1,10 +1,11 @@
 # Team DataChef 
 
 ## Team member: 
-Haoluan Chen, haoluan.chen@mail.utoronto.ca\\
-Ruijia Yang, ruijia.yang@mail.utoronto.ca\\
-Yujie Li, jayden.li@mail.utoronto.ca\\
-Xinyue Li, xinyuevicky,li@mail.utoronto.ca\\
+Haoluan Chen, haoluan.chen@mail.utoronto.ca\newline
+Ruijia Yang, ruijia.yang@mail.utoronto.ca
+Yujie Li, jayden.li@mail.utoronto.ca
+Xinyue Li, xinyuevicky,li@mail.utoronto.ca
+
 
 
 A slide was created, and is available in this file DataChef-slides.pdf
