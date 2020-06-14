@@ -9,6 +9,13 @@ Yujie Li, jayden.li@mail.utoronto.ca
 
 Xinyue Li, xinyuevicky,li@mail.utoronto.ca
 
+All data is from Statistics Canada, links are below:
+
+different provinces 
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703 
+
+different characters 
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410032002#timeframe
 
 
 A slide was created, and is available in this file DataChef-slides.pdf
